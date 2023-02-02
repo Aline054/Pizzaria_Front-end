@@ -25,7 +25,7 @@ npm add axios nookies
 ```
 # Personalização de notificações
 ```
-npm asd react-toastify
+npm add react-toastify
 ```
 
 # Contruir o modal
