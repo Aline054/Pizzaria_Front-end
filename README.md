@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [` npm create-next-app`] 
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [` npx create-next-app`] 
 
 ## Getting Started
 
