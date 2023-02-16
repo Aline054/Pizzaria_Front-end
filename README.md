@@ -31,7 +31,7 @@ npm add react-toastify
 # Contruir o modal
 ```
 npm add react-modal
-npm add @types/react-model
+npm add @types/react-modal
 ```
 
 
